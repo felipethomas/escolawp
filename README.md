@@ -1,4 +1,4 @@
-site-pessoal
+escolawp
 ============
 
-Site pessoal para divulgação de trabalhos realizados
+Criação de páginas utilizando recursos de temas do wordpress.
